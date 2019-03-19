@@ -5,7 +5,8 @@ header-img: img/home-bg.jpg
 email: uiiuiiuac@gmail.com
 description: "about me | gopher | 这里是 @uiiuiiuac 的个人博客，与你一起发现更大的世界。"
 keyword: "uiiuiiu, uiiuiiuac博客"
-url: "http://www.blog.uiiuiiu.cn"              # your host, for absolute URL
+# url: "http://www.blog.uiiuiiu.cn"              # your host, for absolute URL
+url: "https://uiiuiiuac.github.io"   
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 

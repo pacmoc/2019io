@@ -11,7 +11,7 @@ tags:
 
 > “How to build a blog. ”
 
-## 一 开始
+## 一 开始 
 ### 1 创建一个public repo
 命名为 `<githubusername>.github.io`
 
